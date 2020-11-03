@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/navdeeppuri-portfolio/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/navdeeppuri-portfolio/static/js/main.27053d9f.chunk.js",
+    "main.js.map": "/navdeeppuri-portfolio/static/js/main.27053d9f.chunk.js.map",
+    "runtime-main.js": "/navdeeppuri-portfolio/static/js/runtime-main.41034b2c.js",
+    "runtime-main.js.map": "/navdeeppuri-portfolio/static/js/runtime-main.41034b2c.js.map",
+    "static/js/2.0b3fc4f1.chunk.js": "/navdeeppuri-portfolio/static/js/2.0b3fc4f1.chunk.js",
+    "static/js/2.0b3fc4f1.chunk.js.map": "/navdeeppuri-portfolio/static/js/2.0b3fc4f1.chunk.js.map",
+    "static/js/3.f690611e.chunk.js": "/navdeeppuri-portfolio/static/js/3.f690611e.chunk.js",
+    "static/js/3.f690611e.chunk.js.map": "/navdeeppuri-portfolio/static/js/3.f690611e.chunk.js.map",
+    "index.html": "/navdeeppuri-portfolio/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/navdeeppuri-portfolio/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.0b3fc4f1.chunk.js.LICENSE.txt": "/navdeeppuri-portfolio/static/js/2.0b3fc4f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41034b2c.js",
+    "static/js/2.0b3fc4f1.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.27053d9f.chunk.js"
+  ]
+}
