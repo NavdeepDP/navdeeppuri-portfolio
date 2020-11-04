@@ -2,11 +2,12 @@ import React from "react";
 import "./Home.css";
 import pdf from "./Navdeep_Resume.pdf";
 import image from "./ProfilePicture.jpg";
+import Footer from "../../components/Footer/Footer";
 
 const Home = () => {
   return (
     <div>
-      <div className="container">
+      <div className="container" id="page-content">
         <div className="row">
           <div class="col-sm-12">
             <h1>
@@ -74,7 +75,8 @@ const Home = () => {
             </div>
           </div>
         </div>
-      </div>
+      
+      </div>   
     </div>
   );
 };
