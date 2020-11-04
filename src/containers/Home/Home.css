@@ -1,0 +1,7 @@
+#leftAlign, #work,#about, p{
+    text-align: left;
+}
+
+a{
+    margin-right: 5px;
+}
