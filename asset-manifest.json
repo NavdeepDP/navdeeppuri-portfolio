@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/navdeeppuri-portfolio/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/navdeeppuri-portfolio/static/js/main.27053d9f.chunk.js",
-    "main.js.map": "/navdeeppuri-portfolio/static/js/main.27053d9f.chunk.js.map",
-    "runtime-main.js": "/navdeeppuri-portfolio/static/js/runtime-main.41034b2c.js",
-    "runtime-main.js.map": "/navdeeppuri-portfolio/static/js/runtime-main.41034b2c.js.map",
-    "static/js/2.0b3fc4f1.chunk.js": "/navdeeppuri-portfolio/static/js/2.0b3fc4f1.chunk.js",
-    "static/js/2.0b3fc4f1.chunk.js.map": "/navdeeppuri-portfolio/static/js/2.0b3fc4f1.chunk.js.map",
-    "static/js/3.f690611e.chunk.js": "/navdeeppuri-portfolio/static/js/3.f690611e.chunk.js",
-    "static/js/3.f690611e.chunk.js.map": "/navdeeppuri-portfolio/static/js/3.f690611e.chunk.js.map",
+    "main.css": "/navdeeppuri-portfolio/static/css/main.a80c33a3.chunk.css",
+    "main.js": "/navdeeppuri-portfolio/static/js/main.174cc4d3.chunk.js",
+    "main.js.map": "/navdeeppuri-portfolio/static/js/main.174cc4d3.chunk.js.map",
+    "runtime-main.js": "/navdeeppuri-portfolio/static/js/runtime-main.6acee6c7.js",
+    "runtime-main.js.map": "/navdeeppuri-portfolio/static/js/runtime-main.6acee6c7.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/navdeeppuri-portfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.23239755.chunk.js": "/navdeeppuri-portfolio/static/js/2.23239755.chunk.js",
+    "static/js/2.23239755.chunk.js.map": "/navdeeppuri-portfolio/static/js/2.23239755.chunk.js.map",
+    "static/js/3.4afebac7.chunk.js": "/navdeeppuri-portfolio/static/js/3.4afebac7.chunk.js",
+    "static/js/3.4afebac7.chunk.js.map": "/navdeeppuri-portfolio/static/js/3.4afebac7.chunk.js.map",
     "index.html": "/navdeeppuri-portfolio/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/navdeeppuri-portfolio/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.0b3fc4f1.chunk.js.LICENSE.txt": "/navdeeppuri-portfolio/static/js/2.0b3fc4f1.chunk.js.LICENSE.txt"
+    "static/css/2.20aa2d7b.chunk.css.map": "/navdeeppuri-portfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.a80c33a3.chunk.css.map": "/navdeeppuri-portfolio/static/css/main.a80c33a3.chunk.css.map",
+    "static/js/2.23239755.chunk.js.LICENSE.txt": "/navdeeppuri-portfolio/static/js/2.23239755.chunk.js.LICENSE.txt",
+    "static/media/Navdeep_Resume.5f0c1b8f.pdf": "/navdeeppuri-portfolio/static/media/Navdeep_Resume.5f0c1b8f.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.41034b2c.js",
-    "static/js/2.0b3fc4f1.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.27053d9f.chunk.js"
+    "static/js/runtime-main.6acee6c7.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.23239755.chunk.js",
+    "static/css/main.a80c33a3.chunk.css",
+    "static/js/main.174cc4d3.chunk.js"
   ]
 }
