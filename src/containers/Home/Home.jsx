@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
 import pdf from "./Navdeep_Resume.pdf";
-
+import image from "./ProfilePicture.jpg";
 
 const Home = () => {
   return (
@@ -13,6 +13,10 @@ const Home = () => {
               Hi! My name is Navdeep. I am Software Developer living in Cumming,
               Georgia.
             </h1>
+
+            <div class="text-center" id="image">
+              <img id="profile-pic" src={image} class="" alt="profile pic" />
+            </div>
           </div>
         </div>
 
@@ -40,9 +44,33 @@ const Home = () => {
           <div class="col-sm-12">
             <h3 id="work">See my work Experience: </h3>
             <div id="leftAlign">
-            <a href="#" class="btn btn-primary btn-lg "  role="button" aria-disabled="true">LinkedIn</a>
-            <a href={pdf}  class="btn btn-primary btn-lg " target="_blank" role="button" aria-disabled="true">Resume</a>
-            <a href="#" class="btn btn-primary btn-lg " role="button" aria-disabled="true">GitHub</a>
+              <a
+                href="https://www.linkedin.com/in/navdeep-puri/"
+                class="btn btn-primary btn-lg "
+                target="_blank"
+                role="button"
+                aria-disabled="true"
+              >
+                LinkedIn
+              </a>
+              <a
+                href={pdf}
+                class="btn btn-primary btn-lg "
+                target="_blank"
+                role="button"
+                aria-disabled="true"
+              >
+                Resume
+              </a>
+              <a
+                href="https://github.com/NavdeepDP"
+                class="btn btn-primary btn-lg "
+                target="_blank"
+                role="button"
+                aria-disabled="true"
+              >
+                GitHub
+              </a>
             </div>
           </div>
         </div>
