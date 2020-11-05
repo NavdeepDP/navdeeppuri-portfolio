@@ -9,4 +9,13 @@
 
 #project-links{
     margin-top: 10px;
+    margin-bottom: 10px;
 }   
+
+#hr{
+  background-color: #fff; 
+  border-top: 2px dashed #8c8b8b; 
+  color:teal;
+
+
+}

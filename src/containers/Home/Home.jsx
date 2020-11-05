@@ -8,12 +8,14 @@ const Home = () => {
   return (
     <div>
       <div className="container" id="page-content">
+        <div className="row" id="top-row"></div>
         <div className="row">
           <div class="col-sm-12">
-            <h1>
+            
+            <h3>
               Hi! My name is Navdeep. I am Software Developer living in Cumming,
               Georgia.
-            </h1>
+            </h3>
 
             <div class="text-center" id="image">
               <img id="profile-pic" src={image} class="" alt="profile pic" />
@@ -23,7 +25,7 @@ const Home = () => {
 
         <div className="row">
           <div className="col-sm-12" id="about">
-            <h3>About: </h3>
+            <h4>About: </h4>
             <div>
               <p>
                 My name is Navdeep Puri. I Live in Cumming, Georgia with my
@@ -43,33 +45,33 @@ const Home = () => {
 
         <div className="row">
           <div class="col-sm-12">
-            <h3 id="work">See my work Experience: </h3>
+            <h4 id="work">Work Experience: </h4>
             <div id="leftAlign">
               <a
                 href="https://www.linkedin.com/in/navdeep-puri/"
-                class="btn btn-primary btn-lg "
+                class="btn btn-secondary "
                 target="_blank"
                 role="button"
                 aria-disabled="true"
-              >
+              ><i className="fa fa-linkedin-square"> </i>
                 LinkedIn
               </a>
               <a
                 href={pdf}
-                class="btn btn-primary btn-lg "
+                class="btn btn-secondary"
                 target="_blank"
                 role="button"
                 aria-disabled="true"
-              >
+              ><i className="fa fa-file"></i>
                 Resume
               </a>
               <a
                 href="https://github.com/NavdeepDP"
-                class="btn btn-primary btn-lg "
+                class="btn btn-secondary"
                 target="_blank"
                 role="button"
                 aria-disabled="true"
-              >
+              > <i className="fa fa-github-square"></i>
                 GitHub
               </a>
             </div>

@@ -19,7 +19,7 @@ const Portfolio = () => {
       <div className="row">
         <div class="col-sm-12">
           <div className="text-center">
-            <h3>Portfolio</h3>
+            <h2 id="projects-title">Projects</h2>
           </div>
           <Project
             title="Straight Sets"
