@@ -15,6 +15,9 @@ Website consists of three pages:
 
 - Contact
 - Portfolio
+
+![Portfolio Page](./public/pic-1.png)
+
 - About
 
 These pages are accessible through the Navbar links.
