@@ -9,6 +9,7 @@ import EmployeeDirectory from "./../images/emp-dir.gif";
 import CodeQuiz from "./../images/Coding-Quiz.gif";
 import TeamGenerator from "./../images/team.png";
 import Adventure from "./../images/FindYourAdventure1.png";
+import GoogleBookSearch from "./../images/google-book-search.gif";
 
 const Portfolio = () => {
   return (
@@ -36,6 +37,13 @@ const Portfolio = () => {
             website="https://navdeepdp.github.io/Weather-Dashboard/"
           />
           <Project
+            title="Google Book Search"
+            image={GoogleBookSearch}
+            tech="React, MongoDB, Nodejs, Express, Google Books API"
+            source="https://github.com/NavdeepDP/google-book-search"
+            website="https://tranquil-scrubland-79336.herokuapp.com/"
+          />
+          <Project
             title="Employee Directory"
             image={EmployeeDirectory}
             tech="React, axios, gh-pages, moment"
@@ -50,13 +58,13 @@ const Portfolio = () => {
             website="https://navdeepdp.github.io/Code-Quiz/"
           />
 
-          <Project
+          {/* <Project
             title="Team Generator"
             image={TeamGenerator}
             tech="inquirer, Nodejs"
             source="https://github.com/NavdeepDP/Engineering-Team-Generator"
             website=""
-          />
+          /> */}
           <Project
             title="Find Your Adventure"
             image={Adventure}
