@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/navdeeppuri-portfolio/static/css/main.f1388a5c.chunk.css",
-    "main.js": "/navdeeppuri-portfolio/static/js/main.1d9e4671.chunk.js",
-    "main.js.map": "/navdeeppuri-portfolio/static/js/main.1d9e4671.chunk.js.map",
+    "main.js": "/navdeeppuri-portfolio/static/js/main.8ae53be8.chunk.js",
+    "main.js.map": "/navdeeppuri-portfolio/static/js/main.8ae53be8.chunk.js.map",
     "runtime-main.js": "/navdeeppuri-portfolio/static/js/runtime-main.149c3c26.js",
     "runtime-main.js.map": "/navdeeppuri-portfolio/static/js/runtime-main.149c3c26.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/navdeeppuri-portfolio/static/css/2.20aa2d7b.chunk.css",
@@ -20,6 +20,7 @@
     "static/media/ProfilePicture.9c04be71.jpg": "/navdeeppuri-portfolio/static/media/ProfilePicture.9c04be71.jpg",
     "static/media/Weather-Dashboard.9c9858bf.gif": "/navdeeppuri-portfolio/static/media/Weather-Dashboard.9c9858bf.gif",
     "static/media/emp-dir.96f74c64.gif": "/navdeeppuri-portfolio/static/media/emp-dir.96f74c64.gif",
+    "static/media/google-book-search.6004675c.gif": "/navdeeppuri-portfolio/static/media/google-book-search.6004675c.gif",
     "static/media/straightSets-1.f9de7d5e.gif": "/navdeeppuri-portfolio/static/media/straightSets-1.f9de7d5e.gif",
     "static/media/team.b6e53e64.png": "/navdeeppuri-portfolio/static/media/team.b6e53e64.png"
   },
@@ -28,6 +29,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.e5394552.chunk.js",
     "static/css/main.f1388a5c.chunk.css",
-    "static/js/main.1d9e4671.chunk.js"
+    "static/js/main.8ae53be8.chunk.js"
   ]
 }
